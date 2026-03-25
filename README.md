@@ -1,5 +1,6 @@
 # Threat Hunt Report: Ashford Sterling Recruitment - Akira Ransomware Incident
 https://github.com/isamolii/Threat-Hunt-The-Buyer---Incident-Response-Centre/blob/main/README.md
+
 **Hunter:** Isaias Molina  
 **Date:** March 2026  
 **Platform:** Microsoft Defender for Endpoint + Microsoft Sentinel (Advanced Hunting)  
